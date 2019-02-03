@@ -7,14 +7,14 @@ We are going to review all english tenses (16).
 It is used for routines and habits, e.g.
 > I **play** tenis every Friday.
 
-When it's used with _he_, _she_, or _it_; an _"s"_ must be added to the end of the verb, e.g.
+When it's used with _"he"_, _"she"_, or _"it"_; an _"s"_ must be added to the end of the verb, e.g.
 > She **plays** tenis every Friday.
 
 ### Permanent situations
 Present simple it's used in permanent situations, this is, that is not likely to change, e.g.
 > I **live** in America.
 
-As mentioned before, when using _he_, _she_, or _it_; an _"s"_ must be added to the end of the verb, e.g.
+As mentioned before, when using _"he"_, _"she"_, or _"it"_; an _"s"_ must be added to the end of the verb, e.g.
 > He **lives** in America.
 
 ### Facts
@@ -29,7 +29,7 @@ Note the use of the _"s"_ at the end of the verb.
 The present continuous is used with things happening at the moment, e.g.
 > I **am having** my dinner.
 
-The form is: `subject` + _`am/are/is`_ + `verb(` _`"ing"`_ `form)`. e.g.
+The form is: `subject` + _`am/are/is`_ + `present participle (base + "ing")`. e.g.
 > He **is walking** the dog.
 
 > They **are running**.
@@ -60,7 +60,7 @@ We use the past simple when there are past actions that occurred in a chronologi
 We use the past continuous with actions that were already happening _before_ and _after_ a specific time in the past, e.g.
 > I **was speaking** with my friend at 8 o'clock last night.
 
-The form is: _`was/were`_ + `present participle (base +` _`"ing"`_`)`.
+The form is: _`was/were`_ + `present participle (base + "ing")`.
 
 ### Parallel actions in the past
 When telling actions that occurred in the past in parallel, we also use the past continuous, e.g.
@@ -122,7 +122,7 @@ For more examples of the present perfect simple, read this [short article](https
 For actions that are in progress, we use the present perfect continuous, e.g.
 > I **have been painting** the kitchen.
 
-The form is: `subject` + _`has/have`_ + `been` + `present participle (base +` _`"ing"`_`)`.
+The form is: `subject` + _`has/have`_ + `been` + `present participle (base + "ing")`.
 
 ### Expressing how long an action has been happening
 For expressing how long an unfinished action has been going, e.g.
@@ -152,7 +152,7 @@ Form: `had` + `past participle`.
 We use the past perfect continuous for long actions that happened before another action in the past, e.g.
 > I **had been living** in Miami for 2 years before I bought a house.
 
-Form: `subject` + `had been` + `present participle (base +` _`"ing"`_`)`.
+Form: `subject` + `had been` + `present participle (base + "ing")`.
 
 ## "Will" future
 
@@ -222,7 +222,7 @@ The future with present simple is used to make statements about events in the fu
 For things that will be finished by a particular time in the future, we use the _future perfect simple_, e.g.
 > I **will have finished** the homework by 8:00.
 
-> I **will have finished* in an hour, and then you can use the computer.
+> I **will have finished** in an hour, and then you can use the computer.
 
 Form: _`"will have"`_ + `past participle`.
 
@@ -232,7 +232,7 @@ Form: _`"will have"`_ + `past participle`.
 We use the _future continuous_ when an action or situation will be unfinished or in progress at or around a time in the future, e.g.
 > This time tomorrow we **will be sitting** on the beach! I can't wait!
 
-Form: _`"will be"`_ + `present participle (base +` _`"ing"`_`)`.
+Form: _`"will be"`_ + `present participle (base + "ing")`.
 
 For more examples, read [this article](https://www.ef.com/wwen/english-resources/english-grammar/future-continuous/) by EF.
 
@@ -246,6 +246,6 @@ When we assume that an action or situation is occurring at the moment, we can us
 Like the future perfect simple, this form is used to project ourselves forward in time and to look back. It refers to events or actions that are currently unfinished but will be finished at some future time. It is most often used with a time expression. e.g.
 > In September, I **will have been working** at my company for three years.
 
-Form: _`"will have been"`_ + `present participle (base +` _`"ing"`_`)`.
+Form: _`"will have been"`_ + `present participle (base + "ing")`.
 
 For more examples, read [this article](https://www.ef.com/wwen/english-resources/english-grammar/future-perfect-continuous/) by EF.
