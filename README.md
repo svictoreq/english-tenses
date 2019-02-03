@@ -247,3 +247,5 @@ Like the future perfect simple, this form is used to project ourselves forward i
 > In September, I **will have been working** at my company for three years.
 
 Form: _`"will have been"`_ + `present participle (base +` _`"ing"`_`)`.
+
+For more examples, read [this article](https://www.ef.com/wwen/english-resources/english-grammar/future-perfect-continuous/) by EF.
